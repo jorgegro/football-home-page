@@ -1,0 +1,23 @@
+.jumbotron{
+    background: url("http://sialdeporte.com/wp-content/uploads/2018/01/F%C3%BAtbol-americano1.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    height: auto;
+}
+.headFont{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.bodyFont{
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+.textJumbotron{
+    margin-top: 200px;
+}
+.black-box{
+    background-color: rgba(13, 11, 11, 0.79);
+    height: 150px;
+    width: 600px;
+
+}
